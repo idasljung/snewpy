@@ -12,6 +12,7 @@ SNEWPY_models/
 # snewpy.snowglobes output files
 *_SNOprocessed.tar.gz
 *.npy
+*.npz
 
 #Generated graphs
 *.png
@@ -22,3 +23,6 @@ fluence_Bollig_2016_s*
 # editor-specific
 .ipynb_checkpoints/
 .vscode/
+
+#hypothesis package cache
+.hypothesis/
