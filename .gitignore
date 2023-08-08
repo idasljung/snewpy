@@ -13,6 +13,9 @@ SNEWPY_models/
 *_SNOprocessed.tar.gz
 *.npy
 
+#Generated graphs
+*.png
+
 # used for integration tests in test_snowglobes.py
 fluence_Bollig_2016_s*
 
