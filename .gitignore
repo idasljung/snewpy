@@ -13,6 +13,8 @@ SNEWPY_models/
 *_SNOprocessed.tar.gz
 *.npy
 *.npz
+*.npy.icloud
+*.icloud
 
 #Generated graphs
 *.png
